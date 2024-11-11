@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [pan shen], a 🚀Full-Stack Developer based in [Your Location]. Passionate about building scalable and maintainable web applications and always looking to learn new technologies.
+I'm Pan, a 🚀full-stack developer. Passionate about building scalable and maintainable web applications and always looking to learn new technologies.
 
-- 💼 **Profession**: [full stack engineer]
+- 💼 **Profession**: full stack engineer
 - 🌟 **Specialties**: [python], [javascript], [golang], [flutter],
 - 🌱 **Interests**: Open source contributions, IoT projects, machine learning, and cybersecurity.
 - 📚 **Currently learning**: [Skill or Technology]
